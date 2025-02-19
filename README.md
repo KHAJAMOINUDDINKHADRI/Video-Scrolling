@@ -54,7 +54,7 @@ https://video-scrolling.vercel.app
 
  - http://localhost:3000 **or**
 
- - the localhost link provided by the compiler in the termianl
+ - the localhost link provided by the compiler in the terminal.
 
 
 
